@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/pollution.png</file>
+        <file>resources/tank.png</file>
+    </qresource>
+</RCC>
