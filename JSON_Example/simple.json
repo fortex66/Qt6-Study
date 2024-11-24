@@ -1,0 +1,15 @@
+{
+    "time": "08:25:37 AM",
+    "date": "02-12-2021",
+    "success": true,
+    "properties": [
+        {
+            "ID": 1001,
+            "PropertyName": "McDonalds"
+        },
+        {
+            "ID": 1002,
+            "PropertyName": "Burger"
+        }
+    ]
+}
